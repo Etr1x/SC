@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 xvcvxc
 fsfsdawdascg
-dwadas
+=======
+dawdafsv
+dadaddawdascg
+>>>>>>> feature/redact_file
 Script Kiddie
 fsefsdgdrvsfsef
